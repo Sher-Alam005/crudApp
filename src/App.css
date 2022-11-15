@@ -41,3 +41,12 @@
   box-shadow: 10px 5px 15px #aaaaaa;
   padding: 5px, 20px
 }
+.usd-input:focus{
+  outline: none !important;
+}
+.Na-span{
+  margin-right: 10px;
+}
+.star-span{
+  margin-right: 5px;
+}
